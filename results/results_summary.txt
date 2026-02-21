@@ -1,0 +1,6 @@
+
+Geometry Results
+---
+Solid: SWR=3417.60, MaxDeflection=2.477966e-04, Pcr=210547.27
+Hollow: SWR=3413.20, MaxDeflection=2.481161e-04, Pcr=210276.12
+Tapered: SWR=4490.68, MaxDeflection=1.434060e-04, Pcr=276656.73
